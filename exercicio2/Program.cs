@@ -36,7 +36,6 @@ namespace exercicio2
                     }
                 }     
             }
-            
             Console.Write("O maior elemento da matriz {0} foi o {1} na posição {2}:{3}", nomeMatriz, MaiorElemento, linhaMaior, colunaMaior);
             Console.Write("\n");
         }
