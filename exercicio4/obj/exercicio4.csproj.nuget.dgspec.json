@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Meu Drive\\Victor\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj": {}
+    "H:\\.shortcut-targets-by-id\\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj": {}
   },
   "projects": {
-    "G:\\Meu Drive\\Victor\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj": {
+    "H:\\.shortcut-targets-by-id\\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Meu Drive\\Victor\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj",
+        "projectUniqueName": "H:\\.shortcut-targets-by-id\\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj",
         "projectName": "exercicio4",
-        "projectPath": "G:\\Meu Drive\\Victor\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj",
+        "projectPath": "H:\\.shortcut-targets-by-id\\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\exercicio4.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "G:\\Meu Drive\\Victor\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\obj\\",
+        "outputPath": "H:\\.shortcut-targets-by-id\\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\\PUC\\Aulas\\1º Semestre\\Algoritmos e Técnicas de Programação\\Roteiro10\\exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

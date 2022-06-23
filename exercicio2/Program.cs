@@ -44,7 +44,6 @@ namespace exercicio2
         {
             int [ , ] matrizA = new int [4,4];
             int [ , ] matrizB = new int [4,4];
-            
             LeMatriz(matrizA);
             LeMatriz(matrizB);
             MaiorElemento(matrizA, "A");
