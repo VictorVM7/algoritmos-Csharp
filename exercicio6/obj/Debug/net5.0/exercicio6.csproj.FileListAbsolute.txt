@@ -1,0 +1,16 @@
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.exe
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.deps.json
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.runtimeconfig.json
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.runtimeconfig.dev.json
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.dll
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\ref\exercicio6.dll
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\bin\Debug\net5.0\exercicio6.pdb
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.csproj.AssemblyReference.cache
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.AssemblyInfoInputs.cache
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.AssemblyInfo.cs
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.csproj.CoreCompileInputs.cache
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.dll
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\ref\exercicio6.dll
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.pdb
+H:\.shortcut-targets-by-id\1Rtr7T_5SNsQ0p7xoEsz9STSnrTN_34JU\PUC\Aulas\1º Semestre\Algoritmos e Técnicas de Programação\Roteiro10\exercicio6\obj\Debug\net5.0\exercicio6.genruntimeconfig.cache
